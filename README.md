@@ -11,3 +11,10 @@ A Java based pollution model to map the cities with the highest annual average c
 # Usage
 The project directory contains an executable jar file. You can either double click on the jar file or execute it through command prompt using the following command :
 java -jar AirPollution.jar
+
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request.
