@@ -9,5 +9,5 @@ A Java based pollution model to map the cities with the highest annual average c
 4.  Chart Analysis : Compare the PM levels of different cities using Bar Charts.
 
 # Usage
-The project directory contains a executable jar file. You can either double click on the jar file or execute it using command prompt using the following command :
+The project directory contains an executable jar file. You can either double click on the jar file or execute it through command prompt using the following command :
 java -jar AirPollution.jar
