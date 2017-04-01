@@ -6,11 +6,11 @@ A Java based pollution model to map the cities with the highest annual average c
 
 # Features of the project
 1.  The project is bi-lingual. Supports Spanish and English langugaes
-![Alt text](/Air Pollution/screenshots/topSP.png?raw=true "Air Pollution Index of India")
+![Alt text](/Air-Pollution/screenshots/topSP.png?raw=true "Air Pollution Index of India")
 2.  Tool Manual : Get a hint on how to use the GIS tools on the map using this special tool.
 3.  Cutomize the map by adding different layers of your own.
 4.  Chart Analysis : Compare the PM levels of different cities using Bar Charts.
-![Alt text](/Air Pollution/screenshots/gis_chart.png?raw=true "Air Pollution Index of India")
+![Alt text](/Air-Pollution/screenshots/gis_chart.png?raw=true "Air Pollution Index of India")
 
 # Usage
 The project directory contains an executable jar file. You can either double click on the jar file or execute it through command prompt using the following command :
