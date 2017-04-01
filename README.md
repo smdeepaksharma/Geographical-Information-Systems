@@ -2,7 +2,7 @@
 
 A Java based pollution model to map the cities with the highest annual average concentrations of particulate matter (PM) using data from The World Health Organization (WHO, that maintains an Urban Air Pollution Database which includes annual average concentrations for PM10 and PM2.5
 
-![Alt text](/Air Pollution/screenshots/air_pollution.png?raw=true "Air Pollution Index of India")
+![Alt text](/Air-Pollution/screenshots/air_pollution.png?raw=true "Air Pollution Index of India")
 
 # Features of the project
 1.  The project is bi-lingual. Supports Spanish and English langugaes
